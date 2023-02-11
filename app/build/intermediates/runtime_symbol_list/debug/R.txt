@@ -2687,6 +2687,9 @@ int id disableIntraAutoTransition 0x7f08009f
 int id disablePostScroll 0x7f0800a0
 int id disableScroll 0x7f0800a1
 int id disjoint 0x7f0800a2
+int id dog_age 0x7f0801f3
+int id dog_hoobies 0x7f0801f4
+int id dog_name 0x7f0801f5
 int id dragAnticlockwise 0x7f0800a3
 int id dragClockwise 0x7f0800a4
 int id dragDown 0x7f0800a5
@@ -2766,6 +2769,7 @@ int id item1 0x7f0800ee
 int id item2 0x7f0800ef
 int id item3 0x7f0800f0
 int id item4 0x7f0800f1
+int id item_image 0x7f0801f6
 int id item_touch_helper_previous_elevation 0x7f0800f2
 int id jumpToEnd 0x7f0800f3
 int id jumpToStart 0x7f0800f4
